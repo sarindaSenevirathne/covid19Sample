@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "abcd"
+  org = "wso2cs"
+  version = "0.1.0"
+
